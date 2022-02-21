@@ -1,10 +1,10 @@
 ![alt text](./images/header.svg)
 
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <em>
-    I am a full-stack <b>Developer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
+    I am a Full-Stack <b>Developer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
     <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
   </em> 
   <br>
