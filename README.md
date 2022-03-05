@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/softwaredev.gif" />
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
