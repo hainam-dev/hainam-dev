@@ -75,9 +75,9 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    	<code><a href="https://www.facebook.com/nguyenary/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	<code><a href="https://www.linkedin.com/in/nguyenary"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	<code><a href="https://twitter.com/nguyen_ary"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
+    	<code><a href="https://www.facebook.com/duoni/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="https://www.linkedin.com/in/henrybui-work"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+	<code><a href="https://twitter.com/henrybui_work"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
 	<code><a href="mailto:nguyenary14@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
 
