@@ -8,12 +8,12 @@
     <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
   </em> 
   <br>
-  <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "To be a winner, all you need to give is all you have.”</i></b> <img src="./images/dog_1.gif" width="50" />
+  <b><i align="center">Thought : "To be a winner, all you need to give is all you have.”</i></b>
 </p>
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/softwaredev.svg" />
+<img align="right" width=350px height=350px alt="side_sticker" src="./images/softwaredev.svg" />
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
