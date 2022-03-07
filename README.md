@@ -18,6 +18,7 @@
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
 * 🏆 I usually work with ***C# .Net Core***
+* 👍 Personality: reliable person, sociable with new environment, good time management
 * 📫 Ask me anything you want [**here**](https://github.com/hainam-dev/hainam-dev/issues), If I were alive, I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
